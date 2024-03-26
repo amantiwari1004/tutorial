@@ -1,0 +1,27 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "description": "a node js tutorial",
+    "main": "hello.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "(http://github.com/anil-sidhu/node-js.git)"
+    },
+    "keywords": [
+        "code",
+        "step",
+        "by",
+        "step"
+    ],
+    "author": "aman tiwari",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "colors": "^1.4.0",
+        "simple-node-logger": "^21.8.12"
+    }
+}
